@@ -11,9 +11,7 @@ body {
   flex-shrink: none;
 }
 
-/* Other Classes for Page Styling */
-
 body {
-  background: #007bff;
-  background: linear-gradient(to right, #0062e6, #33aeff);
+  background: rgb(181, 179, 179);
+  background: linear-gradient(to right, rgb(181, 179, 179), rgb(181, 179, 179));
 }
